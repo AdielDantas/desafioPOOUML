@@ -1,4 +1,4 @@
-# desafioPOOUML
+# desafio_POO_UML
 Bootcamp Coding the Future Claro - Desafio: Modelagem e Diagramação de um Componente iPhone
 
 
